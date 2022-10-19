@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/dayblassingame/Tidal.com/issues"
   },
-  "homepage": "https://github.com/dayblassingame/Tidal.com#readme"
+  "homepage": "https://github.com/dayblassingame/Tidal.com#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.4",
+    "@babel/preset-react": "^7.18.6"
+  }
 }
